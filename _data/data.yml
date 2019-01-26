@@ -34,6 +34,12 @@ sidebar:
     interests:
       - item: Technology
         link:
+        
+      - item: Aeronautics
+        link:
+        
+      - item: Space
+        link:
 
       - item: Music
         link:
@@ -90,7 +96,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: SolidWorks, SoildEdge, 
+      - name: SolidWorks, SoildEdge, Creo
         level: 98%
 
       - name: Finite Element and Computational Fluid Dynamics Analysis
