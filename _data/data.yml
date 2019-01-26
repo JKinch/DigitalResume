@@ -40,6 +40,12 @@ sidebar:
 
       - item: Hiking
         link:
+        
+      - item: Community Service
+        link:
+        
+      - item: Gaming
+        link:
 
 career-profile:
     title: Career Profile
@@ -67,25 +73,17 @@ projects:
     intro: >
       
     assignments:
-      - title: Velocity
+      - title: Skyfire
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "2019 AAS CanSat Competition: UAH Space Hardware Club"
 
-      - title: DevStudio
+      - title: One-Month Project
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "UAH Space Hardware Club: embedded system atmospheric data collection balloon payload"
 
-      - title: Tempo
+      - title: Airfoil Analysis using Multivariable Calculus
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "High School Senior Project applying the concepts of jankowski transforms and conformal mapping to canculate lift and compare that data to CFD analysis"
 
 
 skills:
