@@ -76,7 +76,7 @@ education:
 
 projects:
     title: Projects
-    intro: Personal or Academic projects I took part in
+    intro: >
       
     assignments:
       - title: Skyfire
