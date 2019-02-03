@@ -80,11 +80,11 @@ projects:
       
     assignments:
       - title: Skyfire
-        link: "Skyfire"
+        link: "http://space.uah.edu/CanSat.html"
         tagline: "2019 AAS CanSat Competition: UAH Space Hardware Club"
 
       - title: One-Month Project
-        link: "#"
+        link: "http://space.uah.edu/OneMonth.html"
         tagline: "UAH Space Hardware Club: embedded system atmospheric data collection balloon payload"
 
       - title: Airfoil Analysis using Multivariable Calculus
