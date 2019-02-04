@@ -109,16 +109,16 @@ skills:
         level: 85%
 
       - name: Python
-        level: 85%
+        level: 75%
         
       - name: Desktop/Terminal Linux 
-        level: 85%
+        level: 75%
         
       - name: KiCAD
         level: 60%
 
       - name: R Langauge
-        level: 45%
+        level: 50%
         
       - name: Video Editing and Image Manipuation
         level: 35%
