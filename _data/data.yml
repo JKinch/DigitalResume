@@ -99,14 +99,14 @@ skills:
       - name: SolidWorks, SoildEdge, Creo
         level: 98%
 
-      - name: Finite Element and Computational Fluid Dynamics Analysis
-        level: 98%
-
       - name: MATLAB
         level: 98%
 
       - name: Object Oriented C++
         level: 95%
+        
+      - name: Finite Element and Computational Fluid Dynamics Analysis
+        level: 85%
 
       - name: Python
         level: 85%
@@ -117,8 +117,11 @@ skills:
       - name: KiCAD
         level: 60%
 
-      - name: GNU Image Manipuation Program and Lightworks Video Editor
-        level: 50%
+      - name: R Langauge
+        level: 45%
+        
+      - name: Video Editing and Image Manipuation
+        level: 35%
         
 experiences:
 
