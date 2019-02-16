@@ -150,10 +150,14 @@ cansatinfo:
       
       Personally, I am most invloved with the Mechanical, Fight Software, and Ground Station 
       Subsystems. A majority of my mechanical design work has been in CAD modeling with computational
-      fluid dynamics and finite element analysis of both the individual parts and assemblies. 
+      fluid dynamics and finite element analysis of both the individual parts and assemblies. The 
+      onboard embedded flight software is being written in C and will be running on a ATmega128Au MCU.
+      Ground station code is being written in Python using the library "pyQTGraph" and "pyQt5" with a 
+      basic Graphic User Interface.
       
       Currently as a team we are transitioning from the preliminary design phase to the prototyping 
-      phase. 
+      phase. We recently had our Preliminary Design Review pressentation to the competition on the 
+      15th of Febuary, 2019. 
       
       
       -Involved in the structural, decent control and flight software sub-systems
