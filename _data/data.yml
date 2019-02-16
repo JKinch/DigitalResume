@@ -110,6 +110,9 @@ skills:
       - name: Desktop/Terminal Linux 
         level: 75%
         
+      - name: Agile Development
+        level: 60%
+        
       - name: KiCAD & ExpessSCH/PCB
         level: 55%
 
