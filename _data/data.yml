@@ -92,7 +92,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: SolidWorks, SoildEdge, Creo
+      - name: CAD (SolidWorks, SoildEdge, Creo)
         level: 90%
 
       - name: MATLAB
@@ -110,7 +110,7 @@ skills:
       - name: Desktop/Terminal Linux 
         level: 75%
         
-      - name: KiCAD
+      - name: KiCAD & ExpessSCH/PCB
         level: 55%
 
       - name: R Langauge
