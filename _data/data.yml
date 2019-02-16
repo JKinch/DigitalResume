@@ -93,16 +93,16 @@ skills:
 
     toolset:
       - name: SolidWorks, SoildEdge, Creo
-        level: 98%
+        level: 90%
 
       - name: MATLAB
-        level: 98%
+        level: 90%
 
       - name: Object Oriented C++
-        level: 95%
+        level: 90%
         
       - name: Finite Element and Computational Fluid Dynamics Analysis
-        level: 85%
+        level: 75%
 
       - name: Python
         level: 75%
@@ -111,13 +111,13 @@ skills:
         level: 75%
         
       - name: KiCAD
-        level: 65%
+        level: 55%
 
       - name: R Langauge
-        level: 55%
+        level: 45%
         
       - name: Video Editing and Image Manipuation
-        level: 55%
+        level: 35%
         
 experiences:
 
