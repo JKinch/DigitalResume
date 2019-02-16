@@ -148,15 +148,20 @@ cansatinfo:
       CanSat that can control its own decent, record footage, broadcast telemetry, and record flight
       data. 
       
-      Personally, I am most invloved with the Mechanical, Fight Software, and Ground Station Subsystem
+      Personally, I am most invloved with the Mechanical, Fight Software, and Ground Station 
+      Subsystems. A majority of my mechanical design work has been in CAD modeling with computational
+      fluid dynamics and finite element analysis of both the individual parts and assemblies. 
       
       Currently as a team we are transitioning from the preliminary design phase to the prototyping 
       phase. 
       
       
-      -Involved in the structural, decent control and flight software sub-systems\n
+      -Involved in the structural, decent control and flight software sub-systems
+      
       -CAD modeling with computational fluid dynamics and finite element analysis 
+      
       -Embedded C and Python software development, using GitHub version control and Agile Scrum techniques
+      
 
 
 footer: >
