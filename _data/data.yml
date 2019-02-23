@@ -84,7 +84,7 @@ projects:
 
       - title: One-Month Project
         link: "http://space.uah.edu/OneMonth.html"
-        tagline: "UAH Space Hardware Club: embedded system atmospheric data collection balloon payload"
+        tagline: "UAH Space Hardware Club: introducatry embedded data collection balloon payload system"
 
       - title: Airfoil Analysis using Multivariable Calculus
         link: "#"
