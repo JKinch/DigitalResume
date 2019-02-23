@@ -78,7 +78,9 @@ projects:
     assignments:
       - title: Skyfire
         link: "https://jkinch.github.io/DigitalResume/Skyfire.html"
-        tagline: "2019 AAS CanSat Competition: UAH Space Hardware Club"
+        tagline: "2019 AAS CanSat Competition: UAH Space Hardware Club CanSat is an international engineering
+        competition where teams compete to be the best at fulfilling the required mission and bonus objectives
+        through the lense of the entire lifecycle of the project. 
 
       - title: One-Month Project
         link: "http://space.uah.edu/OneMonth.html"
