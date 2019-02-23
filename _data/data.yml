@@ -86,7 +86,9 @@ projects:
 
       - title: Airfoil Analysis using Multivariable Calculus
         link: "#"
-        tagline: "High School Senior Project applying the concepts of jankowski transforms and conformal mapping to canculate lift and compare that data to CFD analysis"
+        tagline: "High School Senior Project applying the concepts of jankowski transforms and conformal 
+        mapping to canculate equvalent lift of a spinning cylender(Magnus effect) and compare that data 
+        to CFD analysis"
 
 
 skills:
