@@ -138,7 +138,7 @@ experiences:
        
 cansatinfo:
     title: UAH Cansat- Team Skyfire
-    summary: |
+    intro: |
       In October 2018, I began working as a member of a AAS CanSat Competition Team under the 
       UAH Space Hardware Club, named "Skyfire". A CanSat is a simulation of a real satellite, 
       integrated within the volume and shape of a soft drink can. The challenge for the students
@@ -146,7 +146,7 @@ cansatinfo:
       communication system, into this minimal volume.The goal of this competition is to create a
       CanSat that can control its own decent, record footage, broadcast telemetry, and record flight
       data. 
-      
+    summary: |
       Personally, I am most invloved with the Mechanical, Fight Software, and Ground Station 
       Subsystems. A majority of my mechanical design work has been in CAD modeling with computational
       fluid dynamics and finite element analysis of both the individual parts and assemblies. The 
