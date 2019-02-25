@@ -1,0 +1,26 @@
+{% assign cansatinfo = site.data.data.aerospace %}
+{% if aerospace %}
+<section class="section  aerospace-section">
+
+  <a href="https://jkinch.github.io/DigitalResume/">Back to Home</a>
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-user fa-stack-1x fa-inverse"></i>
+    </span>
+    {{  aerospace.title }}
+  </h2>
+  
+  <div class="intro">
+    {{  aerospace.intro | markdownify }}
+  </div><!--//summary-->
+  
+  <div class="summary">
+    {{  aerospace.summary | markdownify }}
+  </div><!--//summary-->
+  
+  {% include cansatinfo.html %}
+    
+</section><!--//section-->
+{% endif %}
+
