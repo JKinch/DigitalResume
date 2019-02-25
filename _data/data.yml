@@ -35,11 +35,8 @@ sidebar:
       - item: Technology
         link:
         
-      - item: Aeronautics
-        link:
-        
-      - item: Space
-        link:
+      - item: Aerospace
+        link: "https://jkinch.github.io/DigitalResume/aerospace.html"
 
       - item: Music
         link:
