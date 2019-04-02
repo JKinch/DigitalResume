@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jek0023@uah.edu
-    phone: (256) 258-9286 / (678) 687-5901
+    phone: (256) 258-9286
     website:  #do not add http://
     linkedin: JacobKincheloe
     github: JKinch
@@ -126,6 +126,19 @@ skills:
         
 experiences:
 
+    - role: Mechanical Engineering Intern
+      time: May 2019 - 
+      company: Mercury Systems
+      details: |
+        Starting in May I began working at Mercury Sytems helping design structural elements 
+        along with thermal managemnet solutions for various projects. The workflow has been a 
+        strong mixture of both conceptioal design and hands-on manufacturing/testing. I was 
+        responsable for overseeing the entire product lifecycle of systems of my own design, 
+        and was allowed the chance to further branch my skills into electronics and secure computing.
+        
+        The position started in early may and lasted through until August, when i had to go
+        back to studying at University full time. 
+        
     - role: Lifeguard 1 & 2 and Water Safety Instructor
       time: May 2016 - August 2018
       company: Gwinnett County Parks and Recreation 
