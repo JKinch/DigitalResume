@@ -168,9 +168,10 @@ cansatinfo:
       Ground station code is being written in Python using the library "pyQTGraph" and "pyQt5" with a 
       basic Graphic User Interface.
       
-      Currently as a team we are transitioning from the preliminary design phase to the prototyping 
-      phase. We recently had our Preliminary Design Review pressentation to the competition on the 
-      15th of Febuary, 2019. 
+      As of April 1st 2019, our team in tied for 3rd worldwide in the competition due to our great 
+      Preliminary Design Review presentation. For the past few weeks, early testing of our hardware, electronics,
+      and software have been underway. This is being documented and presented in our Critical Design
+      Review schedueled for the 15th of April.
       
 footer: >
     Original Theme by X.Riley
