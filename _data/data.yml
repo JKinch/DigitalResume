@@ -1,4 +1,4 @@
-#
+﻿#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -33,22 +33,22 @@ sidebar:
 
     interests:
       - item: Technology
-        link:
+        link: "https://jkinch.github.io/DigitalResume/WIP.html"
         
       - item: Aerospace
-        link: "https://jkinch.github.io/DigitalResume/Aerospace.html"
+        link: "https://jkinch.github.io/DigitalResume/WIP.html"
 
       - item: Music
-        link:
+        link: "https://jkinch.github.io/DigitalResume/WIP.html"
 
       - item: Hiking
-        link:
+        link: "https://jkinch.github.io/DigitalResume/WIP.html"
         
       - item: Community Service
-        link:
+        link: "https://jkinch.github.io/DigitalResume/WIP.html"
         
       - item: Gaming
-        link:
+        link: "https://jkinch.github.io/DigitalResume/WIP.html"
 
 career-profile:
     title: Career Profile
@@ -73,7 +73,7 @@ projects:
          
     assignments:
       - title: Skyfire
-        link: "https://jkinch.github.io/DigitalResume/Skyfire.html"
+        link: "Projects/Skyfire.html"
         tagline: "2019 AAS CanSat Competition: UAH Space Hardware Club CanSat is an international engineering
         competition where teams compete to be the best at fulfilling the required mission and bonus objectives
         through the lense of the entire lifecycle of the project."
@@ -83,7 +83,7 @@ projects:
         tagline: "UAH Space Hardware Club: introducatry embedded data collection balloon payload system"
 
       - title: Airfoil Analysis using Multivariable Calculus
-        link: "#"
+        link: ""
         tagline: "High School Senior Project applying the concepts of jankowski transforms and conformal 
         mapping to canculate equvalent lift of a spinning cylender(Magnus effect) and compare that data 
         to CFD analysis"
