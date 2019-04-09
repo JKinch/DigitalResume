@@ -33,32 +33,33 @@ sidebar:
 
     interests:
       - item: Technology
-        link: "https://jkinch.github.io/DigitalResume/WIP.html"
+        link: "Interests/Technology.html"
         
       - item: Aerospace
-        link: "https://jkinch.github.io/DigitalResume/WIP.html"
+        link: "Interests/Aerospace.html"
 
       - item: Music
-        link: "https://jkinch.github.io/DigitalResume/WIP.html"
+        link: "Interests/Music.html"
 
       - item: Hiking
-        link: "https://jkinch.github.io/DigitalResume/WIP.html"
+        link: "Interests/Hiking.html"
         
       - item: Community Service
-        link: "https://jkinch.github.io/DigitalResume/WIP.html"
+        link: "Interests/CommunityService.html"
         
       - item: Gaming
-        link: "https://jkinch.github.io/DigitalResume/WIP.html"
+        link: "Interests/Gaming.html"
 
 career-profile:
     title: Career Profile
     summary: |
-      I’m a second year student with an interest in design and analysis of mechanical systems,
+      I’m a third year student with an interest in design and analysis of mechanical systems,
       as well computer systems and computation. For the past two terms I have become an active 
-      member of the UAH Space Hardware Club. Currently I am working on Skyfire, a rocketry 
+      member of the UAH Space Hardware Club. Currently I am working on project Skyfire, a rocketry 
       payload submission to the AAS CanSat Competition. This term I have began to learn more 
-      about networking, operating a Debian based server to do basic duties and donating 
-      processing power to protein folding research.
+      about networking, operating a Linux based server to do basic duties and donating the extra
+      processing power to the F@H protein folding research program through Stanford University.
+
 education:
     - degree: Mechanical Engineering B.S with Computer Science Minor
       university: Univerity of Alabama in Huntsville
