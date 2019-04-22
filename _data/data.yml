@@ -39,19 +39,13 @@ sidebar:
         link: "Interests/Aerospace.html"
 
       - item: Battle Of The Buffalo
-        link: "Interests/BotB.html"
+        link: "Interests/BattleoftheBuffalo.html"
 
       - item: Music
         link: "Interests/Music.html"
-
-      - item: Hiking
-        link: "Interests/Hiking.html"
         
       - item: Community
         link: "Interests/Community.html"
-        
-      - item: Gaming
-        link: "Interests/Gaming.html"
 
 
 
@@ -181,11 +175,11 @@ cansatinfo:
       Review schedueled for the 15th of April.
 
 Music:
-    title: “Music produces a kind of pleasure which human nature cannot do without.” ― Confucius
+    title: 
     intro: |
-      Blah Intro
+      “Music produces a kind of pleasure which human nature cannot do without.” ― Confucius
     summary: |
-      Blah Outro
+      I am 
       
 footer: >
     Original Theme by X.Riley
