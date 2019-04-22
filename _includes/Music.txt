@@ -1,0 +1,26 @@
+{% assign Music = site.data.data.Music %}
+{% if Music %}
+<section class="section Music-section">
+
+  <a href="https://jkinch.github.io/DigitalResume/">Back to Home</a>
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-user fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ Music.title }}
+  </h2>
+  
+  <div class="intro">
+    {{ Music.intro | markdownify }}
+  </div><!--//summary-->
+  
+  <div class="summary">
+    {{ Music.summary | markdownify }}
+  </div><!--//summary-->
+  
+  <img src="https://raw.githubusercontent.com/JKinch/DigitalResume/master/assets/images/CanOverview.PNG" 
+    alt="Skyfire Cansat Overview" width="600"/>
+    
+</section><!--//section-->
+{% endif %}
