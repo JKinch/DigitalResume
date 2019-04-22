@@ -28,7 +28,7 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: Deutsch/German
+      - idiom: Hochdeutsch/German
         level: Professional
 
     interests:
@@ -49,6 +49,9 @@ sidebar:
         
       - item: Gaming
         link: "Interests/Gaming.html"
+
+      - item: Battle Of The Buffalo
+        link: "Interests/BotB.html"
 
 career-profile:
     title: Career Profile
