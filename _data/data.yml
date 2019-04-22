@@ -38,20 +38,22 @@ sidebar:
       - item: Aerospace
         link: "Interests/Aerospace.html"
 
+      - item: Battle Of The Buffalo
+        link: "Interests/BotB.html"
+
       - item: Music
         link: "Interests/Music.html"
 
       - item: Hiking
         link: "Interests/Hiking.html"
         
-      - item: Community Service
-        link: "Interests/CommunityService.html"
+      - item: Community
+        link: "Interests/Community.html"
         
       - item: Gaming
         link: "Interests/Gaming.html"
 
-      - item: Battle Of The Buffalo
-        link: "Interests/BotB.html"
+
 
 career-profile:
     title: Career Profile
