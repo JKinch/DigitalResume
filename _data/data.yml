@@ -89,7 +89,7 @@ projects:
         mapping to calculate equivalent lift of a spinning cylinder (through Magnus effect calculations) 
         and compare that data to typical CFD analysis.
 
-      - title: "Pedalino" DIY Effects Pedal
+      - title: 'Pedalino' DIY Effects Pedal
         link: "Projects/Pedalino.html"
         tagline: "A do-it-yourself attempt to build a programmable guitar effects pedal from an Arduino DUE 
         board. The main advantages of doing this are to learn more about digital signal processing and produce
