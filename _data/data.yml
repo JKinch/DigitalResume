@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jacob Kincheloe
-    tagline: Mechanical and Software Student Engineer
+    tagline: Student Mechanical & Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,12 +52,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a third year student with an interest in design and analysis of mechanical systems,
-      as well computer systems and computation. For the past two terms I have become an active 
-      member of the UAH Space Hardware Club. Currently I am working on project Skyfire, a rocketry 
-      payload submission to the AAS CanSat Competition. This term I have began to learn more 
-      about networking, operating a Linux based server to do basic duties and donating the extra
-      processing power to the F@H protein folding research program through Stanford University.
+           I’m a third-year student with an interest in design and analysis of mechanical systems,
+           as well as computer systems and computation. For the past two terms, I have become an 
+           active member of the UAH Space Hardware Club. Currently, I am working on project Skyfire,
+           a rocketry payload submission to the AAS CanSat Competition. This term I have begun to 
+           learn more about networking, operating a Linux based server to do basic duties and 
+           donating the extra processing power to the F@H protein folding research program through
+           Stanford University.
 
 education:
     - degree: Mechanical Engineering B.S with Computer Science Minor
@@ -65,7 +66,7 @@ education:
       time: August 2017 - May 2021
       details: |
         Minors: Computer Science
-        Certicates: Global Studies- German Language
+        Certificates: Global Studies- German Language
         GPA: 3.3/4.0
 projects:
     title: Projects
@@ -75,19 +76,24 @@ projects:
       - title: Skyfire
         link: "Projects/Skyfire.html"
         tagline: "2019 AAS CanSat Competition: UAH Space Hardware Club CanSat is an international engineering
-        competition where teams compete to be the best at fulfilling the required mission and bonus objectives
-        through the lense of the entire lifecycle of the project."
+        competition where teams compete to be the best at fulfilling the required mission and bonus objective
+        through the lens of the entire lifecycle of the project."
 
       - title: One-Month Project
         link: "http://space.uah.edu/OneMonth.html"
-        tagline: "UAH Space Hardware Club: introducatry embedded data collection balloon payload system"
+        tagline: "UAH Space Hardware Club: introductory embedded data collection balloon payload system"
 
       - title: Airfoil Analysis using Multivariable Calculus
         link: "Projects/AirfoilCalculus.html"
-        tagline: "High School Senior Project applying the concepts of jankowski transforms and conformal 
-        mapping to canculate equvalent lift of a spinning cylender(Magnus effect) and compare that data 
-        to CFD analysis"
+        tagline: "High School Senior Project applying the concepts of Joukowsky transforms and conformal 
+        mapping to calculate equivalent lift of a spinning cylinder (through Magnus effect calculations) 
+        and compare that data to typical CFD analysis.
 
+      - title: "Pedalino" DIY Effects Pedal
+        link: "Projects/Pedalino.html"
+        tagline: "A do-it-yourself attempt to build a programmable guitar effects pedal from an Arduino DUE 
+        board. The main advantages of doing this are to learn more about digital signal processing and produce
+        a useful for shaping the sounds of my instrumental recordings"
 
 skills:
     title: Skills &amp; Proficiencies
@@ -99,7 +105,7 @@ skills:
       - name: MATLAB
         level: 90%
 
-      - name: Object Oriented C++
+      - name: Object-Oriented C++
         level: 90%
         
       - name: Finite Element and Computational Fluid Dynamics Analysis
@@ -120,7 +126,7 @@ skills:
       - name: R Langauge & HTML/CSS
         level: 45%
         
-      - name: Video Editing and Image Manipuation
+      - name: Video Editing and Image Manipulation
         level: 35%
         
 experiences:
@@ -132,11 +138,11 @@ experiences:
         Starting in May 2019, I began working at Mercury Systems helping design structural
         elements along with thermal management solutions for various projects. The 
         workflow has been a strong mixture of both conceptional design and hands-on
-        manufacturing/testing. I was responsible for overseeing the entire product 
-        life-cycle of systems of my own design, and was allowed the chance to further
-        branch my skills into electronics and secure computing
+        manufacturing/testing. I was responsible for overseeing the  product life-cycle
+        of systems of my own design, and was allowed the chance to further branch my skills
+        into Electrical Engineering and secure computing.
         
-        The position started in early may and lasted through until August, when I had to go
+        The position started in early may and lasted through until August when I had to go
         back to studying at University full time. 
         
     - role: Lifeguard 1 & 2 and Water Safety Instructor
@@ -154,12 +160,12 @@ experiences:
 cansatinfo:
     title: UAH Cansat- Team Skyfire
     intro: |
-      In October 2018, I began working as a member of a AAS CanSat Competition Team under the 
+      In October 2018, I began working as a member of an AAS CanSat Competition Team under the 
       UAH Space Hardware Club, named "Skyfire". A CanSat is a simulation of a real satellite, 
       integrated within the volume and shape of a soft drink can. The challenge for the students
       is to fit all the major subsystems found in a satellite, such as power, sensors and a 
       communication system, into this minimal volume.The goal of this competition is to create a
-      CanSat that can control its own decent, record footage, broadcast telemetry, and record flight
+      CanSat that can control it's own decent, record footage, broadcast telemetry, and record flight
       data. 
     summary: |
       Personally, I am most invloved with the Mechanical, Fight Software, and Ground Station 
@@ -169,10 +175,10 @@ cansatinfo:
       Ground station code is being written in Python using the library "pyQTGraph" and "pyQt5" with a 
       basic Graphic User Interface.
       
-      As of April 1st 2019, our team in tied for 3rd worldwide in the competition due to our great 
+      As of April 1st, 2019, our team in tied for 3rd worldwide in the competition due to our great 
       Preliminary Design Review presentation. For the past few weeks, early testing of our hardware, electronics,
       and software have been underway. This is being documented and presented in our Critical Design
-      Review schedueled for the 15th of April.
+      Review scheduled for the 15th of April.
 
 Music:
     title: 
